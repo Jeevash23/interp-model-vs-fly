@@ -1,0 +1,158 @@
+{
+ "raw_rows": {
+  "A": 461,
+  "B": 298
+ },
+ "units": {
+  "A": 461,
+  "B": 456,
+  "matched": 430,
+  "A_only": 31,
+  "B_only": 26,
+  "amplitude": {
+   "agree": 427,
+   "share": 0.9930232558139535,
+   "kappa": 0.9871994601942905,
+   "specific": {
+    "abolished": {
+     "A": 23,
+     "B": 23,
+     "both": 23,
+     "specific": 1.0
+    },
+    "reduced": {
+     "A": 137,
+     "B": 138,
+     "both": 136,
+     "specific": 0.9890909090909091
+    },
+    "unchanged": {
+     "A": 255,
+     "B": 253,
+     "both": 253,
+     "specific": 0.9960629921259843
+    },
+    "increased": {
+     "A": 13,
+     "B": 13,
+     "both": 13,
+     "specific": 1.0
+    },
+    "not_reported": {
+     "A": 2,
+     "B": 2,
+     "both": 2,
+     "specific": 1.0
+    },
+    "mixed": {
+     "A": 0,
+     "B": 1,
+     "both": 0,
+     "specific": 0.0
+    }
+   },
+   "confusion": {
+    "reduced|mixed": 1,
+    "unchanged|reduced": 2
+   }
+  },
+  "ds": {
+   "agree": 358,
+   "share": 0.8325581395348837,
+   "kappa": 0.04397233201580981,
+   "specific": {
+    "unchanged": {
+     "A": 74,
+     "B": 2,
+     "both": 2,
+     "specific": 0.05263157894736842
+    },
+    "not_reported": {
+     "A": 356,
+     "B": 428,
+     "both": 356,
+     "specific": 0.9081632653061225
+    }
+   },
+   "confusion": {
+    "unchanged|not_reported": 72
+   }
+  }
+ },
+ "findings": {
+  "A": 189,
+  "B": 196,
+  "matched": 176,
+  "A_only": 13,
+  "B_only": 20,
+  "amplitude": {
+   "agree": 173,
+   "share": 0.9829545454545454,
+   "kappa": 0.9702333972262938,
+   "specific": {
+    "abolished": {
+     "A": 8,
+     "B": 8,
+     "both": 8,
+     "specific": 1.0
+    },
+    "reduced": {
+     "A": 68,
+     "B": 69,
+     "both": 67,
+     "specific": 0.9781021897810219
+    },
+    "unchanged": {
+     "A": 93,
+     "B": 91,
+     "both": 91,
+     "specific": 0.9891304347826086
+    },
+    "increased": {
+     "A": 3,
+     "B": 3,
+     "both": 3,
+     "specific": 1.0
+    },
+    "not_reported": {
+     "A": 2,
+     "B": 2,
+     "both": 2,
+     "specific": 1.0
+    },
+    "mixed": {
+     "A": 2,
+     "B": 3,
+     "both": 2,
+     "specific": 0.8
+    }
+   },
+   "confusion": {
+    "reduced|mixed": 1,
+    "unchanged|reduced": 2
+   }
+  },
+  "ds": {
+   "agree": 168,
+   "share": 0.9545454545454546,
+   "kappa": 0.32046332046332143,
+   "specific": {
+    "unchanged": {
+     "A": 10,
+     "B": 2,
+     "both": 2,
+     "specific": 0.3333333333333333
+    },
+    "not_reported": {
+     "A": 166,
+     "B": 174,
+     "both": 166,
+     "specific": 0.9764705882352941
+    }
+   },
+   "confusion": {
+    "unchanged|not_reported": 8
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+repeat_of,panel,genotype,line,polarity,speed_deg_s,condition,supplement_category,supplement_basis,stage1_category,stage1_basis,compared,same,how
+Fig. 4B,ST-S3A,Mi1,main,both,30,100%,unchanged,"extractor B, row B2-STR-011",unchanged,"stage-1 units A325 (A), B-STR-031 (B); finding M155 unchanged",yes,yes,same category
+Fig. 4B,ST-S3A,Tm3,main,both,30,100%,unchanged,"extractor B, row B2-STR-012",unchanged,"stage-1 units A330 (A), B-STR-036 (B); finding M163 unchanged",yes,yes,same category
+Fig. 4B,ST-S3A,Mi4,main,both,30,100%,unchanged,"extractor B, row B2-STR-013",unchanged,"stage-1 units A335 (A), B-STR-041 (B); finding M157 unchanged",yes,yes,same category
+Fig. 4B,ST-S3A,Mi9,main,both,30,100%,unchanged,"extractor B, row B2-STR-014",unchanged,"stage-1 units A340 (A), B-STR-042 (B); finding M159 unchanged",yes,yes,same category
+Fig. 4B,ST-S3A,T4T5,main,both,30,100%,reduced,"extractor B, row B2-STR-019",abolished,"stage-1 units A345 (A), B-STR-043 (B); finding M161 abolished",yes,yes,"direction compared: stage 1's abolition comes from the text, which marks cannot show"
+Fig. 4B,ST-S3B,Mi1,main,both,270,100%,reduced,"extractor B, row B2-STR-024",reduced,"stage-1 units A328 (A), B-STR-034 (B); finding M156 unchanged",yes,yes,same category
+Fig. 4B,ST-S3B,Tm3,main,both,270,100%,reduced,"extractor B, row B2-STR-029",reduced,"stage-1 units A333 (A), B-STR-039 (B); finding M164 unchanged",yes,yes,same category
+Fig. 4B,ST-S3B,Mi4,main,both,270,100%,unchanged,"extractor B, row B2-STR-030",unchanged,"stage-1 units A338 (A), B-STR-041 (B); finding M158 unchanged",yes,yes,same category
+Fig. 4B,ST-S3B,Mi9,main,both,270,100%,unchanged,"extractor B, row B2-STR-031",unchanged,"stage-1 units A343 (A), B-STR-042 (B); finding M160 unchanged",yes,yes,same category
+Fig. 4B,ST-S3B,T4T5,main,both,270,100%,reduced,"extractor B, row B2-STR-032",abolished,"stage-1 units A348 (A), B-STR-043 (B); finding M162 abolished",yes,yes,"direction compared: stage 1's abolition comes from the text, which marks cannot show"
+Fig. 3E,ST-S3H,Mi1,1,ON,90,44%,reduced,"vector paths: filled marker, below control",reduced,finding M136,yes,yes,same category
+Fig. 3E,ST-S3H,Mi1,1,OFF,90,43%,unchanged,"vector paths: open marker, above control",unchanged,finding M135,yes,yes,same category
+Fig. 3E,ST-S3H,Tm3,1,ON,90,44%,reduced,"vector paths: filled marker, below control",reduced,finding M144,yes,yes,same category
+Fig. 3E,ST-S3H,Tm3,1,OFF,90,43%,unchanged,"vector paths: open marker, below control",unchanged,finding M143,yes,yes,same category
+Fig. 3E,ST-S3H,Mi4,1,ON,90,44%,increased,"vector paths: filled marker, above control",increased,finding M138,yes,yes,same category
+Fig. 3E,ST-S3H,Mi4,1,OFF,90,43%,unchanged,"vector paths: open marker, above control",unchanged,finding M137,yes,yes,same category
+Fig. 3E,ST-S3H,Mi9,1,ON,90,44%,unchanged,"vector paths: open marker, below control; centre covered in the image",unchanged,finding M140,yes,yes,same category
+Fig. 3E,ST-S3H,Mi9,1,OFF,90,43%,unchanged,"vector paths: open marker, below control",unchanged,finding M139,yes,yes,same category
+text (Figs. S4C-D),ST-S4BD,Mi4,main,both,30,direction selectivity,,"histograms tested against shuffled data, not control",ds unchanged,"finding M190, from the text",no,,no category in the supplement: consistent (selectivity remains)
+text (Figs. S4C-D),ST-S4BD,Mi9,main,both,30,direction selectivity,,"histograms tested against shuffled data, not control",ds unchanged,"finding M191, from the text",no,,no category in the supplement: consistent (selectivity remains)

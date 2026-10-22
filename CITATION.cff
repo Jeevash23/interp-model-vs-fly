@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the preprint (link to be added when it is posted) and this repository."
+title: "Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9 but not for the OFF-pathway inputs: code and results"
+abstract: "Compares exact silencing of the inputs of the motion detectors T4 and T5 in the 50 released FlyVis models with the published results of genetic silencing in flies, under a protocol frozen before the comparison."
+authors:
+  - family-names: Jeevash
+    given-names: Richard
+    orcid: "https://orcid.org/0009-0005-7812-0939"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Jeevash23/interp-model-vs-fly"
+keywords:
+  - connectome-constrained models
+  - Drosophila
+  - FlyVis
+  - motion detection
+  - silencing
+  - T4
+  - T5

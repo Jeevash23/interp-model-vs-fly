@@ -1,0 +1,32 @@
+{
+ "rules": "STAGE2-AMENDMENTS.md, S4 (written 09:14 UTC on 18 October 2026, before agreement was computed at 09:16 UTC)",
+ "settle": {
+  "ST-S3H|Tm3|OFF|both|fast": {
+   "amplitude": "unchanged",
+   "reason": "Extractor B left out line Tm3-1's marker at 270 deg/s with OFF edges, because line Tm3-2's filled marker covers it in the image; B's two remaining units tie (Tm3-2: unchanged at 90, increased at 270 deg/s). The PDF's vector paths show Tm3-1's marker as open (merge-work/s3h-markers.csv), as extractor A read it. With it, the units are unchanged, unchanged and increased: unchanged."
+  },
+  "ST-S4A|Mi9|ON|both|fast": {
+   "amplitude": "increased",
+   "reason": "A tie in both extractions: unchanged at 90 deg/s and increased at 540 deg/s, at each of the three OFF reset durations. The experiment was run to test Mi9's enhanced turning to repeating ON edges (article methods, protocol B3, p. e6, PDF p. 22), and the text reports that 'an enhanced response to ON edges was still observed when the duration of the OFF stimulus period was varied' (article PDF p. 8). The text gives the result of this experiment for the type it was designed for, as the text decided the tie for Fig. 4B's gratings in stage 1."
+  }
+ },
+ "left_out": {
+  "ST-S3E|Tm3|both|both|fast": {
+   "reason": "A tie in both extractions: unchanged at 135 and 202.5 deg/s (15 and 22.5 deg periods), reduced at 270 and 540 deg/s (30 and 60 deg periods). The text's statement covers Figs. S3A-E and all four input types together ('we also observed reductions in turning responses only for lower contrast stimuli', article PDF p. 8) and does not decide this finding. Kept in the table as mixed, so it is not scored."
+  },
+  "ST-S3H|Tm3|ON|both|slow": {
+   "reason": "A tie in both extractions: line Tm3-1 reduced at all three ON contrasts at 30 deg/s, line Tm3-2 unchanged at all three. The text says only that the silencing phenotypes 'were generally reproducible with additional driver lines (Figure S3H)' (article PDF p. 8), which does not decide this finding. Kept in the table as mixed, so it is not scored."
+  }
+ },
+ "repeats_s3h": {
+  "points": ["Mi1", "Tm3", "Mi4", "Mi9"],
+  "stimuli": ["ON 44%", "OFF 43%"],
+  "speed_deg_s": 90,
+  "line": "1",
+  "basis": "Neither extractor made rows for these points (the data of Fig. 3E; article methods, protocol B1, p. e6, PDF p. 22). Extractor A: 'Their marks equal stage-1 rows A285-A292 for all four cell types' (notes-stage2.md, section 3.2). Extractor B: the marks agree for Mi1-1, Tm3-1 and Mi4-1; Mi9-1's ON marker is hidden; its OFF marker appears open (notes-stage2.md, section 6). The category here is read from the PDF's vector paths (merge-work/s3h-markers.csv): an open marker is unchanged, and a filled one is reduced or increased by its position against the control's marker."
+ },
+ "repeats_s4bd": {
+  "points": {"Mi4": "M190", "Mi9": "M191"},
+  "basis": "Figs. S4B-D show each fly's histogram of pixel direction selectivity (n = 2 flies per condition), each significantly different from its shuffled version (one-sample Kolmogorov-Smirnov, p < 0.05; supplement PDF p. 10). That shows direction selectivity is still present after silencing, but there is no comparison with control, so the supplement gives no category. Both extractors kept stage 1's category and made no row."
+ }
+}

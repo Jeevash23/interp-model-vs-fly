@@ -1,0 +1,488 @@
+experiment,genotype,line,polarity,direction,speed,A_amplitude,B_amplitude,A_ds,B_ds,status,A_rows,B_rows
+AM-1EF,Mi1,,OFF,both,50,unchanged,unchanged,not_reported,not_reported,agree,A002,B-AMM-002
+AM-1EF,Mi1,,ON,both,50,reduced,reduced,not_reported,not_reported,agree,A001,B-AMM-001
+AM-1EF,Tm3,a,OFF,both,50,unchanged,unchanged,not_reported,not_reported,agree,A004,B-AMM-004
+AM-1EF,Tm3,a,ON,both,50,unchanged,unchanged,not_reported,not_reported,agree,A003,B-AMM-003
+AM-1EF,Tm3,b,OFF,both,50,unchanged,unchanged,not_reported,not_reported,agree,A006,B-AMM-006
+AM-1EF,Tm3,b,ON,both,50,unchanged,unchanged,not_reported,not_reported,agree,A005,B-AMM-005
+AM-1GH,Mi1,,OFF,both,50,reduced,mixed,not_reported,not_reported,DISAGREE,A008,B-AMM-008;B-AMM-009
+AM-1GH,Mi1,,ON,both,50,reduced,reduced,not_reported,not_reported,agree,A007,B-AMM-007
+AM-1GH,Tm3,a,OFF,both,50,unchanged,unchanged,not_reported,not_reported,agree,A010,B-AMM-011
+AM-1GH,Tm3,a,ON,both,50,unchanged,unchanged,not_reported,not_reported,agree,A009,B-AMM-010
+AM-1GH,Tm3,b,OFF,both,50,unchanged,unchanged,not_reported,not_reported,agree,A012,B-AMM-013
+AM-1GH,Tm3,b,ON,both,50,unchanged,unchanged,not_reported,not_reported,agree,A011,B-AMM-012
+AM-2,Mi1,,OFF,PD,100.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A030,B-AMM-074
+AM-2,Mi1,,OFF,PD,12.5,unchanged,unchanged,unchanged,not_reported,DISAGREE,A026,B-AMM-074
+AM-2,Mi1,,OFF,PD,150.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A031,B-AMM-074
+AM-2,Mi1,,OFF,PD,200.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A032,B-AMM-074
+AM-2,Mi1,,OFF,PD,25.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A027,B-AMM-074
+AM-2,Mi1,,OFF,PD,300.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A033,B-AMM-074
+AM-2,Mi1,,OFF,PD,50.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A028,B-AMM-074
+AM-2,Mi1,,OFF,PD,500.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A034,B-AMM-074
+AM-2,Mi1,,OFF,PD,6.25,unchanged,unchanged,unchanged,not_reported,DISAGREE,A025,B-AMM-074
+AM-2,Mi1,,OFF,PD,700.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A035,B-AMM-074
+AM-2,Mi1,,OFF,PD,75.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A029,B-AMM-074
+AM-2,Mi1,,OFF,PD,900.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A036,B-AMM-074
+AM-2,Mi1,,ON,PD,100.0,reduced,reduced,not_reported,not_reported,agree,A018,B-AMM-019
+AM-2,Mi1,,ON,PD,12.5,reduced,reduced,not_reported,not_reported,agree,A014,B-AMM-015
+AM-2,Mi1,,ON,PD,150.0,reduced,reduced,not_reported,not_reported,agree,A019,B-AMM-020
+AM-2,Mi1,,ON,PD,200.0,reduced,reduced,not_reported,not_reported,agree,A020,B-AMM-021
+AM-2,Mi1,,ON,PD,25.0,reduced,reduced,not_reported,not_reported,agree,A015,B-AMM-016
+AM-2,Mi1,,ON,PD,300.0,reduced,reduced,not_reported,not_reported,agree,A021,B-AMM-022
+AM-2,Mi1,,ON,PD,50.0,reduced,reduced,not_reported,not_reported,agree,A016,B-AMM-017
+AM-2,Mi1,,ON,PD,500.0,reduced,reduced,not_reported,not_reported,agree,A022,B-AMM-023
+AM-2,Mi1,,ON,PD,6.25,reduced,reduced,not_reported,not_reported,agree,A013,B-AMM-014
+AM-2,Mi1,,ON,PD,700.0,unchanged,unchanged,not_reported,not_reported,agree,A023,B-AMM-024
+AM-2,Mi1,,ON,PD,75.0,reduced,reduced,not_reported,not_reported,agree,A017,B-AMM-018
+AM-2,Mi1,,ON,PD,900.0,reduced,reduced,not_reported,not_reported,agree,A024,B-AMM-025
+AM-2,Tm3,a,OFF,PD,100.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A066,B-AMM-075
+AM-2,Tm3,a,OFF,PD,12.5,unchanged,unchanged,unchanged,not_reported,DISAGREE,A062,B-AMM-075
+AM-2,Tm3,a,OFF,PD,150.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A067,B-AMM-075
+AM-2,Tm3,a,OFF,PD,200.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A068,B-AMM-075
+AM-2,Tm3,a,OFF,PD,25.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A063,B-AMM-075
+AM-2,Tm3,a,OFF,PD,300.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A069,B-AMM-075
+AM-2,Tm3,a,OFF,PD,50.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A064,B-AMM-075
+AM-2,Tm3,a,OFF,PD,500.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A070,B-AMM-075
+AM-2,Tm3,a,OFF,PD,6.25,unchanged,unchanged,unchanged,not_reported,DISAGREE,A061,B-AMM-075
+AM-2,Tm3,a,OFF,PD,700.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A071,B-AMM-075
+AM-2,Tm3,a,OFF,PD,75.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A065,B-AMM-075
+AM-2,Tm3,a,OFF,PD,900.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A072,B-AMM-075
+AM-2,Tm3,a,ON,PD,100.0,reduced,reduced,not_reported,not_reported,agree,A042,B-AMM-031
+AM-2,Tm3,a,ON,PD,12.5,unchanged,unchanged,not_reported,not_reported,agree,A038,B-AMM-027
+AM-2,Tm3,a,ON,PD,150.0,reduced,reduced,not_reported,not_reported,agree,A043,B-AMM-032
+AM-2,Tm3,a,ON,PD,200.0,reduced,reduced,not_reported,not_reported,agree,A044,B-AMM-033
+AM-2,Tm3,a,ON,PD,25.0,unchanged,unchanged,not_reported,not_reported,agree,A039,B-AMM-028
+AM-2,Tm3,a,ON,PD,300.0,reduced,reduced,not_reported,not_reported,agree,A045,B-AMM-034
+AM-2,Tm3,a,ON,PD,50.0,unchanged,unchanged,not_reported,not_reported,agree,A040,B-AMM-029
+AM-2,Tm3,a,ON,PD,500.0,reduced,reduced,not_reported,not_reported,agree,A046,B-AMM-035
+AM-2,Tm3,a,ON,PD,6.25,unchanged,unchanged,not_reported,not_reported,agree,A037,B-AMM-026
+AM-2,Tm3,a,ON,PD,700.0,unchanged,unchanged,not_reported,not_reported,agree,A047,B-AMM-036
+AM-2,Tm3,a,ON,PD,75.0,reduced,reduced,not_reported,not_reported,agree,A041,B-AMM-030
+AM-2,Tm3,a,ON,PD,900.0,reduced,reduced,not_reported,not_reported,agree,A048,B-AMM-037
+AM-2,Tm3,b,OFF,PD,100.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A078,B-AMM-076
+AM-2,Tm3,b,OFF,PD,12.5,unchanged,unchanged,unchanged,not_reported,DISAGREE,A074,B-AMM-076
+AM-2,Tm3,b,OFF,PD,150.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A079,B-AMM-076
+AM-2,Tm3,b,OFF,PD,200.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A080,B-AMM-076
+AM-2,Tm3,b,OFF,PD,25.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A075,B-AMM-076
+AM-2,Tm3,b,OFF,PD,300.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A081,B-AMM-076
+AM-2,Tm3,b,OFF,PD,50.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A076,B-AMM-076
+AM-2,Tm3,b,OFF,PD,500.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A082,B-AMM-076
+AM-2,Tm3,b,OFF,PD,6.25,unchanged,unchanged,unchanged,not_reported,DISAGREE,A073,B-AMM-076
+AM-2,Tm3,b,OFF,PD,700.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A083,B-AMM-076
+AM-2,Tm3,b,OFF,PD,75.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A077,B-AMM-076
+AM-2,Tm3,b,OFF,PD,900.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A084,B-AMM-076
+AM-2,Tm3,b,ON,PD,100.0,reduced,reduced,not_reported,not_reported,agree,A054,B-AMM-043
+AM-2,Tm3,b,ON,PD,12.5,unchanged,unchanged,not_reported,not_reported,agree,A050,B-AMM-039
+AM-2,Tm3,b,ON,PD,150.0,reduced,reduced,not_reported,not_reported,agree,A055,B-AMM-044
+AM-2,Tm3,b,ON,PD,200.0,reduced,reduced,not_reported,not_reported,agree,A056,B-AMM-045
+AM-2,Tm3,b,ON,PD,25.0,unchanged,unchanged,not_reported,not_reported,agree,A051,B-AMM-040
+AM-2,Tm3,b,ON,PD,300.0,reduced,reduced,not_reported,not_reported,agree,A057,B-AMM-046
+AM-2,Tm3,b,ON,PD,50.0,unchanged,unchanged,not_reported,not_reported,agree,A052,B-AMM-041
+AM-2,Tm3,b,ON,PD,500.0,reduced,reduced,not_reported,not_reported,agree,A058,B-AMM-047
+AM-2,Tm3,b,ON,PD,6.25,unchanged,unchanged,not_reported,not_reported,agree,A049,B-AMM-038
+AM-2,Tm3,b,ON,PD,700.0,unchanged,unchanged,not_reported,not_reported,agree,A059,B-AMM-048
+AM-2,Tm3,b,ON,PD,75.0,unchanged,unchanged,not_reported,not_reported,agree,A053,B-AMM-042
+AM-2,Tm3,b,ON,PD,900.0,reduced,reduced,not_reported,not_reported,agree,A060,B-AMM-049
+AM-3,Mi1,,OFF,ND,100.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A102,B-AMM-077
+AM-3,Mi1,,OFF,ND,12.5,unchanged,unchanged,unchanged,not_reported,DISAGREE,A098,B-AMM-077
+AM-3,Mi1,,OFF,ND,150.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A103,B-AMM-077
+AM-3,Mi1,,OFF,ND,200.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A104,B-AMM-077
+AM-3,Mi1,,OFF,ND,25.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A099,B-AMM-077
+AM-3,Mi1,,OFF,ND,300.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A105,B-AMM-077
+AM-3,Mi1,,OFF,ND,50.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A100,B-AMM-077
+AM-3,Mi1,,OFF,ND,500.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A106,B-AMM-077
+AM-3,Mi1,,OFF,ND,6.25,unchanged,unchanged,unchanged,not_reported,DISAGREE,A097,B-AMM-077
+AM-3,Mi1,,OFF,ND,700.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A107,B-AMM-077
+AM-3,Mi1,,OFF,ND,75.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A101,B-AMM-077
+AM-3,Mi1,,OFF,ND,900.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A108,B-AMM-077
+AM-3,Mi1,,ON,ND,100.0,reduced,reduced,not_reported,not_reported,agree,A090,B-AMM-055
+AM-3,Mi1,,ON,ND,12.5,reduced,reduced,not_reported,not_reported,agree,A086,B-AMM-051
+AM-3,Mi1,,ON,ND,150.0,reduced,reduced,not_reported,not_reported,agree,A091,B-AMM-056
+AM-3,Mi1,,ON,ND,200.0,reduced,reduced,not_reported,not_reported,agree,A092,B-AMM-057
+AM-3,Mi1,,ON,ND,25.0,reduced,reduced,not_reported,not_reported,agree,A087,B-AMM-052
+AM-3,Mi1,,ON,ND,300.0,reduced,reduced,not_reported,not_reported,agree,A093,B-AMM-058
+AM-3,Mi1,,ON,ND,50.0,reduced,reduced,not_reported,not_reported,agree,A088,B-AMM-053
+AM-3,Mi1,,ON,ND,500.0,reduced,reduced,not_reported,not_reported,agree,A094,B-AMM-059
+AM-3,Mi1,,ON,ND,6.25,reduced,reduced,not_reported,not_reported,agree,A085,B-AMM-050
+AM-3,Mi1,,ON,ND,700.0,unchanged,unchanged,not_reported,not_reported,agree,A095,B-AMM-060
+AM-3,Mi1,,ON,ND,75.0,reduced,reduced,not_reported,not_reported,agree,A089,B-AMM-054
+AM-3,Mi1,,ON,ND,900.0,reduced,reduced,not_reported,not_reported,agree,A096,B-AMM-061
+AM-3,Tm3,a,OFF,ND,100.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A138,B-AMM-078
+AM-3,Tm3,a,OFF,ND,12.5,unchanged,unchanged,unchanged,not_reported,DISAGREE,A134,B-AMM-078
+AM-3,Tm3,a,OFF,ND,150.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A139,B-AMM-078
+AM-3,Tm3,a,OFF,ND,200.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A140,B-AMM-078
+AM-3,Tm3,a,OFF,ND,25.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A135,B-AMM-078
+AM-3,Tm3,a,OFF,ND,300.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A141,B-AMM-078
+AM-3,Tm3,a,OFF,ND,50.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A136,B-AMM-078
+AM-3,Tm3,a,OFF,ND,500.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A142,B-AMM-078
+AM-3,Tm3,a,OFF,ND,6.25,unchanged,unchanged,unchanged,not_reported,DISAGREE,A133,B-AMM-078
+AM-3,Tm3,a,OFF,ND,700.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A143,B-AMM-078
+AM-3,Tm3,a,OFF,ND,75.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A137,B-AMM-078
+AM-3,Tm3,a,OFF,ND,900.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A144,B-AMM-078
+AM-3,Tm3,a,ON,ND,100.0,unchanged,unchanged,not_reported,not_reported,agree,A114,B-AMM-067
+AM-3,Tm3,a,ON,ND,12.5,unchanged,unchanged,not_reported,not_reported,agree,A110,B-AMM-063
+AM-3,Tm3,a,ON,ND,150.0,unchanged,unchanged,not_reported,not_reported,agree,A115,B-AMM-068
+AM-3,Tm3,a,ON,ND,200.0,unchanged,unchanged,not_reported,not_reported,agree,A116,B-AMM-069
+AM-3,Tm3,a,ON,ND,25.0,unchanged,unchanged,not_reported,not_reported,agree,A111,B-AMM-064
+AM-3,Tm3,a,ON,ND,300.0,unchanged,unchanged,not_reported,not_reported,agree,A117,B-AMM-070
+AM-3,Tm3,a,ON,ND,50.0,unchanged,unchanged,not_reported,not_reported,agree,A112,B-AMM-065
+AM-3,Tm3,a,ON,ND,500.0,unchanged,unchanged,not_reported,not_reported,agree,A118,B-AMM-071
+AM-3,Tm3,a,ON,ND,6.25,unchanged,unchanged,not_reported,not_reported,agree,A109,B-AMM-062
+AM-3,Tm3,a,ON,ND,700.0,reduced,reduced,not_reported,not_reported,agree,A119,B-AMM-072
+AM-3,Tm3,a,ON,ND,75.0,unchanged,unchanged,not_reported,not_reported,agree,A113,B-AMM-066
+AM-3,Tm3,a,ON,ND,900.0,unchanged,unchanged,not_reported,not_reported,agree,A120,B-AMM-073
+AM-3,Tm3,b,OFF,ND,100.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A150,B-AMM-079
+AM-3,Tm3,b,OFF,ND,12.5,unchanged,unchanged,unchanged,not_reported,DISAGREE,A146,B-AMM-079
+AM-3,Tm3,b,OFF,ND,150.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A151,B-AMM-079
+AM-3,Tm3,b,OFF,ND,200.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A152,B-AMM-079
+AM-3,Tm3,b,OFF,ND,25.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A147,B-AMM-079
+AM-3,Tm3,b,OFF,ND,300.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A153,B-AMM-079
+AM-3,Tm3,b,OFF,ND,50.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A148,B-AMM-079
+AM-3,Tm3,b,OFF,ND,500.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A154,B-AMM-079
+AM-3,Tm3,b,OFF,ND,6.25,unchanged,unchanged,unchanged,not_reported,DISAGREE,A145,B-AMM-079
+AM-3,Tm3,b,OFF,ND,700.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A155,B-AMM-079
+AM-3,Tm3,b,OFF,ND,75.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A149,B-AMM-079
+AM-3,Tm3,b,OFF,ND,900.0,unchanged,unchanged,unchanged,not_reported,DISAGREE,A156,B-AMM-079
+AM-3,Tm3,b,ON,ND,100.0,unchanged,unchanged,not_reported,not_reported,agree,A126,B-AMM-080
+AM-3,Tm3,b,ON,ND,12.5,unchanged,unchanged,not_reported,not_reported,agree,A122,B-AMM-080
+AM-3,Tm3,b,ON,ND,150.0,unchanged,unchanged,not_reported,not_reported,agree,A127,B-AMM-080
+AM-3,Tm3,b,ON,ND,200.0,unchanged,unchanged,not_reported,not_reported,agree,A128,B-AMM-080
+AM-3,Tm3,b,ON,ND,25.0,unchanged,unchanged,not_reported,not_reported,agree,A123,B-AMM-080
+AM-3,Tm3,b,ON,ND,300.0,unchanged,unchanged,not_reported,not_reported,agree,A129,B-AMM-080
+AM-3,Tm3,b,ON,ND,50.0,unchanged,unchanged,not_reported,not_reported,agree,A124,B-AMM-080
+AM-3,Tm3,b,ON,ND,500.0,unchanged,unchanged,not_reported,not_reported,agree,A130,B-AMM-080
+AM-3,Tm3,b,ON,ND,6.25,unchanged,unchanged,not_reported,not_reported,agree,A121,B-AMM-080
+AM-3,Tm3,b,ON,ND,700.0,unchanged,unchanged,not_reported,not_reported,agree,A131,B-AMM-080
+AM-3,Tm3,b,ON,ND,75.0,unchanged,unchanged,not_reported,not_reported,agree,A125,B-AMM-080
+AM-3,Tm3,b,ON,ND,900.0,unchanged,unchanged,not_reported,not_reported,agree,A132,B-AMM-080
+AM-4,Mi1,,ON,both,160.0,reduced,reduced,not_reported,not_reported,agree,A160,B-AMM-084
+AM-4,Mi1,,ON,both,20.0,reduced,reduced,not_reported,not_reported,agree,A157,B-AMM-081
+AM-4,Mi1,,ON,both,320.0,reduced,reduced,not_reported,not_reported,agree,A161,B-AMM-085
+AM-4,Mi1,,ON,both,40.0,reduced,reduced,not_reported,not_reported,agree,A158,B-AMM-082
+AM-4,Mi1,,ON,both,640.0,unchanged,unchanged,not_reported,not_reported,agree,A162,B-AMM-086
+AM-4,Mi1,,ON,both,80.0,reduced,reduced,not_reported,not_reported,agree,A159,B-AMM-083
+AM-4,Tm3,a,ON,both,160.0,reduced,,not_reported,,A only,A166,
+AM-4,Tm3,a,ON,both,20.0,reduced,,not_reported,,A only,A163,
+AM-4,Tm3,a,ON,both,320.0,reduced,,not_reported,,A only,A167,
+AM-4,Tm3,a,ON,both,40.0,reduced,,not_reported,,A only,A164,
+AM-4,Tm3,a,ON,both,640.0,unchanged,,not_reported,,A only,A168,
+AM-4,Tm3,a,ON,both,80.0,reduced,,not_reported,,A only,A165,
+AM-4,Tm3,b,ON,both,160.0,reduced,,not_reported,,A only,A172,
+AM-4,Tm3,b,ON,both,20.0,unchanged,,not_reported,,A only,A169,
+AM-4,Tm3,b,ON,both,320.0,unchanged,,not_reported,,A only,A173,
+AM-4,Tm3,b,ON,both,40.0,reduced,,not_reported,,A only,A170,
+AM-4,Tm3,b,ON,both,640.0,unchanged,,not_reported,,A only,A174,
+AM-4,Tm3,b,ON,both,80.0,reduced,,not_reported,,A only,A171,
+AM-4,Tm3,c,ON,both,160.0,reduced,,not_reported,,A only,A178,
+AM-4,Tm3,c,ON,both,20.0,reduced,,not_reported,,A only,A175,
+AM-4,Tm3,c,ON,both,320.0,reduced,,not_reported,,A only,A179,
+AM-4,Tm3,c,ON,both,40.0,reduced,,not_reported,,A only,A176,
+AM-4,Tm3,c,ON,both,640.0,unchanged,,not_reported,,A only,A180,
+AM-4,Tm3,c,ON,both,80.0,reduced,,not_reported,,A only,A177,
+AM-4,Tm3,pooled,ON,both,160.0,,reduced,,not_reported,B only,,B-AMM-090
+AM-4,Tm3,pooled,ON,both,20.0,,reduced,,not_reported,B only,,B-AMM-087
+AM-4,Tm3,pooled,ON,both,320.0,,reduced,,not_reported,B only,,B-AMM-091
+AM-4,Tm3,pooled,ON,both,40.0,,reduced,,not_reported,B only,,B-AMM-088
+AM-4,Tm3,pooled,ON,both,640.0,,unchanged,,not_reported,B only,,B-AMM-092
+AM-4,Tm3,pooled,ON,both,80.0,,reduced,,not_reported,B only,,B-AMM-089
+SE-5,Tm1,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A182,B-SER-001
+SE-5,Tm1,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A181,B-SER-002
+SE-5,Tm2,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A184,B-SER-003
+SE-5,Tm2,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A183,B-SER-004
+SE-5,Tm4,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A186,B-SER-005
+SE-5,Tm4,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A185,B-SER-006
+SE-5,Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A188,B-SER-007
+SE-5,Tm9,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A187,B-SER-008
+SE-6,Tm1,,OFF,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A190,B-SER-009
+SE-6,Tm1,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A189,B-SER-010
+SE-6,Tm1+Tm2,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A198,B-SER-017
+SE-6,Tm1+Tm2,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A197,B-SER-018
+SE-6,Tm1+Tm4,,OFF,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A200,B-SER-019
+SE-6,Tm1+Tm4,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A199,B-SER-020
+SE-6,Tm1+Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A202,B-SER-021
+SE-6,Tm1+Tm9,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A201,B-SER-022
+SE-6,Tm2,,OFF,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A192,B-SER-011
+SE-6,Tm2,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A191,B-SER-012
+SE-6,Tm2+Tm4,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A204,B-SER-023
+SE-6,Tm2+Tm4,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A203,B-SER-024
+SE-6,Tm2+Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A206,B-SER-025
+SE-6,Tm2+Tm9,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A205,B-SER-026
+SE-6,Tm4,,OFF,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A194,B-SER-013
+SE-6,Tm4,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A193,B-SER-014
+SE-6,Tm4+Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A208,B-SER-027
+SE-6,Tm4+Tm9,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A207,B-SER-028
+SE-6,Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A196,B-SER-015
+SE-6,Tm9,,ON,both,mean,unchanged,unchanged,not_reported,not_reported,agree,A195,B-SER-016
+SE-7B,Tm4+Tm9,,OFF,both,40,reduced,reduced,not_reported,not_reported,agree,A274,B-SER-100
+SE-7B,Tm9,,OFF,both,40,reduced,reduced,not_reported,not_reported,agree,A273,B-SER-099
+SE-7C,Tm1,,OFF,both,all,reduced,,not_reported,,A only,A259,
+SE-7C,Tm2,,OFF,both,all,reduced,reduced,not_reported,not_reported,agree,A260,B-SER-101
+SE-7C,Tm4,,OFF,both,all,reduced,,not_reported,,A only,A261,
+SE-7C,Tm9,,OFF,both,all,reduced,,not_reported,,A only,A262,
+SE-7D,Tm1,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A263,B-SER-089
+SE-7D,Tm1+Tm2,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A267,B-SER-093
+SE-7D,Tm1+Tm4,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A268,B-SER-094
+SE-7D,Tm1+Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A269,B-SER-095
+SE-7D,Tm2,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A264,B-SER-090
+SE-7D,Tm2+Tm4,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A270,B-SER-096
+SE-7D,Tm2+Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A271,B-SER-097
+SE-7D,Tm4,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A265,B-SER-091
+SE-7D,Tm4+Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A272,B-SER-098
+SE-7D,Tm9,,OFF,both,mean,reduced,reduced,not_reported,not_reported,agree,A266,B-SER-092
+SE-S4,Tm1,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A212,B-SER-031
+SE-S4,Tm1,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A211,B-SER-029
+SE-S4,Tm1,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A210,B-SER-032
+SE-S4,Tm1,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A209,B-SER-030
+SE-S4,Tm1+Tm2,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A216,B-SER-047
+SE-S4,Tm1+Tm2,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A215,B-SER-045
+SE-S4,Tm1+Tm2,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A214,B-SER-048
+SE-S4,Tm1+Tm2,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A213,B-SER-046
+SE-S4,Tm1+Tm4,,OFF,ND,all,unchanged,reduced,not_reported,not_reported,DISAGREE,A220,B-SER-051
+SE-S4,Tm1+Tm4,,OFF,PD,all,unchanged,reduced,not_reported,not_reported,DISAGREE,A219,B-SER-049
+SE-S4,Tm1+Tm4,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A218,B-SER-052
+SE-S4,Tm1+Tm4,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A217,B-SER-050
+SE-S4,Tm1+Tm9,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A224,B-SER-055
+SE-S4,Tm1+Tm9,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A223,B-SER-053
+SE-S4,Tm1+Tm9,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A222,B-SER-056
+SE-S4,Tm1+Tm9,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A221,B-SER-054
+SE-S4,Tm2,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A228,B-SER-035
+SE-S4,Tm2,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A227,B-SER-033
+SE-S4,Tm2,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A226,B-SER-036
+SE-S4,Tm2,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A225,B-SER-034
+SE-S4,Tm2+Tm4,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A232,B-SER-059
+SE-S4,Tm2+Tm4,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A231,B-SER-057
+SE-S4,Tm2+Tm4,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A230,B-SER-060
+SE-S4,Tm2+Tm4,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A229,B-SER-058
+SE-S4,Tm2+Tm9,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A236,B-SER-063
+SE-S4,Tm2+Tm9,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A235,B-SER-061
+SE-S4,Tm2+Tm9,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A234,B-SER-064
+SE-S4,Tm2+Tm9,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A233,B-SER-062
+SE-S4,Tm4,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A240,B-SER-039
+SE-S4,Tm4,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A239,B-SER-037
+SE-S4,Tm4,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A238,B-SER-040
+SE-S4,Tm4,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A237,B-SER-038
+SE-S4,Tm4+Tm9,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A244,B-SER-067
+SE-S4,Tm4+Tm9,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A243,B-SER-065
+SE-S4,Tm4+Tm9,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A242,B-SER-068
+SE-S4,Tm4+Tm9,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A241,B-SER-066
+SE-S4,Tm9,,OFF,ND,all,reduced,reduced,not_reported,not_reported,agree,A248,B-SER-043
+SE-S4,Tm9,,OFF,PD,all,reduced,reduced,not_reported,not_reported,agree,A247,B-SER-041
+SE-S4,Tm9,,ON,ND,all,unchanged,unchanged,not_reported,not_reported,agree,A246,B-SER-044
+SE-S4,Tm9,,ON,PD,all,unchanged,unchanged,not_reported,not_reported,agree,A245,B-SER-042
+SE-S5,Tm1,,both,ND,all,,reduced,,not_reported,B only,,B-SER-070
+SE-S5,Tm1,,both,PD,all,,reduced,,not_reported,B only,,B-SER-069
+SE-S5,Tm1,,both,both,all,reduced,,not_reported,,A only,A249,
+SE-S5,Tm1+Tm2,,both,ND,all,,reduced,,not_reported,B only,,B-SER-078
+SE-S5,Tm1+Tm2,,both,PD,all,,reduced,,not_reported,B only,,B-SER-077
+SE-S5,Tm1+Tm2,,both,both,all,reduced,,not_reported,,A only,A250,
+SE-S5,Tm1+Tm4,,both,ND,all,,reduced,,not_reported,B only,,B-SER-080
+SE-S5,Tm1+Tm4,,both,PD,all,,reduced,,not_reported,B only,,B-SER-079
+SE-S5,Tm1+Tm4,,both,both,all,reduced,,not_reported,,A only,A251,
+SE-S5,Tm1+Tm9,,both,ND,all,,reduced,,not_reported,B only,,B-SER-082
+SE-S5,Tm1+Tm9,,both,PD,all,,reduced,,not_reported,B only,,B-SER-081
+SE-S5,Tm1+Tm9,,both,both,all,reduced,,not_reported,,A only,A252,
+SE-S5,Tm2,,both,ND,all,,reduced,,not_reported,B only,,B-SER-072
+SE-S5,Tm2,,both,PD,all,,reduced,,not_reported,B only,,B-SER-071
+SE-S5,Tm2,,both,both,all,reduced,,not_reported,,A only,A253,
+SE-S5,Tm2+Tm4,,both,ND,all,,reduced,,not_reported,B only,,B-SER-084
+SE-S5,Tm2+Tm4,,both,PD,all,,reduced,,not_reported,B only,,B-SER-083
+SE-S5,Tm2+Tm4,,both,both,all,reduced,,not_reported,,A only,A254,
+SE-S5,Tm2+Tm9,,both,ND,all,,reduced,,not_reported,B only,,B-SER-086
+SE-S5,Tm2+Tm9,,both,PD,all,,reduced,,not_reported,B only,,B-SER-085
+SE-S5,Tm2+Tm9,,both,both,all,reduced,,not_reported,,A only,A255,
+SE-S5,Tm4,,both,ND,all,,reduced,,not_reported,B only,,B-SER-074
+SE-S5,Tm4,,both,PD,all,,reduced,,not_reported,B only,,B-SER-073
+SE-S5,Tm4,,both,both,all,reduced,,not_reported,,A only,A256,
+SE-S5,Tm4+Tm9,,both,ND,all,,reduced,,not_reported,B only,,B-SER-088
+SE-S5,Tm4+Tm9,,both,PD,all,,reduced,,not_reported,B only,,B-SER-087
+SE-S5,Tm4+Tm9,,both,both,all,reduced,,not_reported,,A only,A257,
+SE-S5,Tm9,,both,ND,all,,reduced,,not_reported,B only,,B-SER-076
+SE-S5,Tm9,,both,PD,all,,reduced,,not_reported,B only,,B-SER-075
+SE-S5,Tm9,,both,both,all,reduced,,not_reported,,A only,A258,
+ST-3C,Mi1,,OFF,both,90,reduced,reduced,not_reported,not_reported,agree,A276,B-STR-002
+ST-3C,Mi1,,ON,both,90,reduced,reduced,not_reported,not_reported,agree,A275,B-STR-001
+ST-3C,Mi4,,OFF,both,90,unchanged,unchanged,not_reported,not_reported,agree,A280,B-STR-006
+ST-3C,Mi4,,ON,both,90,unchanged,unchanged,not_reported,not_reported,agree,A279,B-STR-005
+ST-3C,Mi9,,OFF,both,90,unchanged,unchanged,not_reported,not_reported,agree,A282,B-STR-008
+ST-3C,Mi9,,ON,both,90,unchanged,unchanged,not_reported,not_reported,agree,A281,B-STR-007
+ST-3C,T4T5,,OFF,both,90,unchanged,unchanged,not_reported,not_reported,agree,A284,B-STR-010
+ST-3C,T4T5,,ON,both,90,unchanged,unchanged,not_reported,not_reported,agree,A283,B-STR-009
+ST-3C,Tm3,,OFF,both,90,reduced,reduced,not_reported,not_reported,agree,A278,B-STR-004
+ST-3C,Tm3,,ON,both,90,reduced,reduced,not_reported,not_reported,agree,A277,B-STR-003
+ST-3E,Mi1,,OFF,both,90,unchanged,unchanged,not_reported,not_reported,agree,A286,B-STR-022
+ST-3E,Mi1,,ON,both,90,reduced,reduced,not_reported,not_reported,agree,A285,B-STR-021
+ST-3E,Mi4,,OFF,both,90,unchanged,unchanged,not_reported,not_reported,agree,A290,B-STR-026
+ST-3E,Mi4,,ON,both,90,increased,increased,not_reported,not_reported,agree,A289,B-STR-025
+ST-3E,Mi9,,OFF,both,90,unchanged,unchanged,not_reported,not_reported,agree,A292,B-STR-028
+ST-3E,Mi9,,ON,both,90,unchanged,unchanged,not_reported,not_reported,agree,A291,B-STR-027
+ST-3E,T4T5,,OFF,both,90,abolished,abolished,not_reported,not_reported,agree,A294,B-STR-030
+ST-3E,T4T5,,ON,both,90,abolished,abolished,not_reported,not_reported,agree,A293,B-STR-029
+ST-3E,Tm3,,OFF,both,90,unchanged,unchanged,not_reported,not_reported,agree,A288,B-STR-024
+ST-3E,Tm3,,ON,both,90,reduced,reduced,not_reported,not_reported,agree,A287,B-STR-023
+ST-4A,Mi1,,both,both,180.0,reduced,reduced,not_reported,not_reported,agree,A297,B-STR-011
+ST-4A,Mi1,,both,both,2430.0,reduced,reduced,not_reported,not_reported,agree,A300,B-STR-011
+ST-4A,Mi1,,both,both,270.0,reduced,reduced,not_reported,not_reported,agree,A298,B-STR-011
+ST-4A,Mi1,,both,both,30.0,reduced,reduced,not_reported,not_reported,agree,A295,B-STR-011
+ST-4A,Mi1,,both,both,810.0,reduced,reduced,not_reported,not_reported,agree,A299,B-STR-011
+ST-4A,Mi1,,both,both,90.0,reduced,reduced,not_reported,not_reported,agree,A296,B-STR-011
+ST-4A,Mi4,,both,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A309,B-STR-018
+ST-4A,Mi4,,both,both,2430.0,unchanged,unchanged,not_reported,not_reported,agree,A312,B-STR-018
+ST-4A,Mi4,,both,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A310,B-STR-018
+ST-4A,Mi4,,both,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A307,B-STR-018
+ST-4A,Mi4,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A311,B-STR-018
+ST-4A,Mi4,,both,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A308,B-STR-018
+ST-4A,Mi9,,both,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A315,B-STR-019
+ST-4A,Mi9,,both,both,2430.0,unchanged,unchanged,not_reported,not_reported,agree,A318,B-STR-019
+ST-4A,Mi9,,both,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A316,B-STR-019
+ST-4A,Mi9,,both,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A313,B-STR-019
+ST-4A,Mi9,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A317,B-STR-019
+ST-4A,Mi9,,both,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A314,B-STR-019
+ST-4A,T4T5,,both,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A321,B-STR-020
+ST-4A,T4T5,,both,both,2430.0,unchanged,unchanged,not_reported,not_reported,agree,A324,B-STR-020
+ST-4A,T4T5,,both,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A322,B-STR-020
+ST-4A,T4T5,,both,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A319,B-STR-020
+ST-4A,T4T5,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A323,B-STR-020
+ST-4A,T4T5,,both,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A320,B-STR-020
+ST-4A,Tm3,,both,both,180.0,reduced,reduced,not_reported,not_reported,agree,A303,B-STR-014
+ST-4A,Tm3,,both,both,2430.0,reduced,reduced,not_reported,not_reported,agree,A306,B-STR-017
+ST-4A,Tm3,,both,both,270.0,reduced,reduced,not_reported,not_reported,agree,A304,B-STR-015
+ST-4A,Tm3,,both,both,30.0,reduced,reduced,not_reported,not_reported,agree,A301,B-STR-012
+ST-4A,Tm3,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A305,B-STR-016
+ST-4A,Tm3,,both,both,90.0,reduced,reduced,not_reported,not_reported,agree,A302,B-STR-013
+ST-4B,Mi1,,both,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A327,B-STR-033
+ST-4B,Mi1,,both,both,270.0,reduced,reduced,not_reported,not_reported,agree,A328,B-STR-034
+ST-4B,Mi1,,both,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A325,B-STR-031
+ST-4B,Mi1,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A329,B-STR-035
+ST-4B,Mi1,,both,both,90.0,reduced,reduced,not_reported,not_reported,agree,A326,B-STR-032
+ST-4B,Mi4,,both,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A337,B-STR-041
+ST-4B,Mi4,,both,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A338,B-STR-041
+ST-4B,Mi4,,both,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A335,B-STR-041
+ST-4B,Mi4,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A339,B-STR-041
+ST-4B,Mi4,,both,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A336,B-STR-041
+ST-4B,Mi9,,both,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A342,B-STR-042
+ST-4B,Mi9,,both,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A343,B-STR-042
+ST-4B,Mi9,,both,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A340,B-STR-042
+ST-4B,Mi9,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A344,B-STR-042
+ST-4B,Mi9,,both,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A341,B-STR-042
+ST-4B,T4T5,,both,both,180.0,abolished,abolished,not_reported,not_reported,agree,A347,B-STR-043
+ST-4B,T4T5,,both,both,270.0,abolished,abolished,not_reported,not_reported,agree,A348,B-STR-043
+ST-4B,T4T5,,both,both,30.0,abolished,abolished,not_reported,not_reported,agree,A345,B-STR-043
+ST-4B,T4T5,,both,both,810.0,abolished,abolished,not_reported,not_reported,agree,A349,B-STR-043
+ST-4B,T4T5,,both,both,90.0,abolished,abolished,not_reported,not_reported,agree,A346,B-STR-043
+ST-4B,Tm3,,both,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A332,B-STR-038
+ST-4B,Tm3,,both,both,270.0,reduced,reduced,not_reported,not_reported,agree,A333,B-STR-039
+ST-4B,Tm3,,both,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A330,B-STR-036
+ST-4B,Tm3,,both,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A334,B-STR-040
+ST-4B,Tm3,,both,both,90.0,reduced,reduced,not_reported,not_reported,agree,A331,B-STR-037
+ST-4C,Mi1,,ON,both,1080.0,reduced,reduced,not_reported,not_reported,agree,A357,B-STR-051
+ST-4C,Mi1,,ON,both,180.0,reduced,reduced,not_reported,not_reported,agree,A353,B-STR-047
+ST-4C,Mi1,,ON,both,270.0,reduced,reduced,not_reported,not_reported,agree,A354,B-STR-048
+ST-4C,Mi1,,ON,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A350,B-STR-044
+ST-4C,Mi1,,ON,both,540.0,reduced,reduced,not_reported,not_reported,agree,A355,B-STR-049
+ST-4C,Mi1,,ON,both,60.0,reduced,reduced,not_reported,not_reported,agree,A351,B-STR-045
+ST-4C,Mi1,,ON,both,810.0,reduced,reduced,not_reported,not_reported,agree,A356,B-STR-050
+ST-4C,Mi1,,ON,both,90.0,reduced,reduced,not_reported,not_reported,agree,A352,B-STR-046
+ST-4C,Mi4,,ON,both,1080.0,increased,increased,not_reported,not_reported,agree,A373,B-STR-067
+ST-4C,Mi4,,ON,both,180.0,increased,increased,not_reported,not_reported,agree,A369,B-STR-063
+ST-4C,Mi4,,ON,both,270.0,increased,increased,not_reported,not_reported,agree,A370,B-STR-064
+ST-4C,Mi4,,ON,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A366,B-STR-060
+ST-4C,Mi4,,ON,both,540.0,increased,increased,not_reported,not_reported,agree,A371,B-STR-065
+ST-4C,Mi4,,ON,both,60.0,unchanged,unchanged,not_reported,not_reported,agree,A367,B-STR-061
+ST-4C,Mi4,,ON,both,810.0,increased,increased,not_reported,not_reported,agree,A372,B-STR-066
+ST-4C,Mi4,,ON,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A368,B-STR-062
+ST-4C,Mi9,,ON,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A381,B-STR-075
+ST-4C,Mi9,,ON,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A377,B-STR-071
+ST-4C,Mi9,,ON,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A378,B-STR-072
+ST-4C,Mi9,,ON,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A374,B-STR-068
+ST-4C,Mi9,,ON,both,540.0,increased,increased,not_reported,not_reported,agree,A379,B-STR-073
+ST-4C,Mi9,,ON,both,60.0,reduced,reduced,not_reported,not_reported,agree,A375,B-STR-069
+ST-4C,Mi9,,ON,both,810.0,increased,increased,not_reported,not_reported,agree,A380,B-STR-074
+ST-4C,Mi9,,ON,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A376,B-STR-070
+ST-4C,T4T5,,ON,both,1080.0,abolished,abolished,not_reported,not_reported,agree,A389,B-STR-076
+ST-4C,T4T5,,ON,both,180.0,abolished,abolished,not_reported,not_reported,agree,A385,B-STR-076
+ST-4C,T4T5,,ON,both,270.0,abolished,abolished,not_reported,not_reported,agree,A386,B-STR-076
+ST-4C,T4T5,,ON,both,30.0,abolished,abolished,not_reported,not_reported,agree,A382,B-STR-076
+ST-4C,T4T5,,ON,both,540.0,abolished,abolished,not_reported,not_reported,agree,A387,B-STR-076
+ST-4C,T4T5,,ON,both,60.0,abolished,abolished,not_reported,not_reported,agree,A383,B-STR-076
+ST-4C,T4T5,,ON,both,810.0,abolished,abolished,not_reported,not_reported,agree,A388,B-STR-076
+ST-4C,T4T5,,ON,both,90.0,abolished,abolished,not_reported,not_reported,agree,A384,B-STR-076
+ST-4C,Tm3,,ON,both,1080.0,reduced,reduced,not_reported,not_reported,agree,A365,B-STR-059
+ST-4C,Tm3,,ON,both,180.0,reduced,reduced,not_reported,not_reported,agree,A361,B-STR-055
+ST-4C,Tm3,,ON,both,270.0,reduced,reduced,not_reported,not_reported,agree,A362,B-STR-056
+ST-4C,Tm3,,ON,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A358,B-STR-052
+ST-4C,Tm3,,ON,both,540.0,reduced,reduced,not_reported,not_reported,agree,A363,B-STR-057
+ST-4C,Tm3,,ON,both,60.0,reduced,reduced,not_reported,not_reported,agree,A359,B-STR-053
+ST-4C,Tm3,,ON,both,810.0,reduced,reduced,not_reported,not_reported,agree,A364,B-STR-058
+ST-4C,Tm3,,ON,both,90.0,reduced,reduced,not_reported,not_reported,agree,A360,B-STR-054
+ST-4D,Mi1,,OFF,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A397,B-STR-077
+ST-4D,Mi1,,OFF,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A393,B-STR-077
+ST-4D,Mi1,,OFF,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A394,B-STR-077
+ST-4D,Mi1,,OFF,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A390,B-STR-077
+ST-4D,Mi1,,OFF,both,540.0,unchanged,unchanged,not_reported,not_reported,agree,A395,B-STR-077
+ST-4D,Mi1,,OFF,both,60.0,unchanged,unchanged,not_reported,not_reported,agree,A391,B-STR-077
+ST-4D,Mi1,,OFF,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A396,B-STR-077
+ST-4D,Mi1,,OFF,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A392,B-STR-077
+ST-4D,Mi4,,OFF,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A413,B-STR-086
+ST-4D,Mi4,,OFF,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A409,B-STR-082
+ST-4D,Mi4,,OFF,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A410,B-STR-083
+ST-4D,Mi4,,OFF,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A406,B-STR-079
+ST-4D,Mi4,,OFF,both,540.0,unchanged,unchanged,not_reported,not_reported,agree,A411,B-STR-084
+ST-4D,Mi4,,OFF,both,60.0,unchanged,unchanged,not_reported,not_reported,agree,A407,B-STR-080
+ST-4D,Mi4,,OFF,both,810.0,increased,increased,not_reported,not_reported,agree,A412,B-STR-085
+ST-4D,Mi4,,OFF,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A408,B-STR-081
+ST-4D,Mi9,,OFF,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A421,B-STR-087
+ST-4D,Mi9,,OFF,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A417,B-STR-087
+ST-4D,Mi9,,OFF,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A418,B-STR-087
+ST-4D,Mi9,,OFF,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A414,B-STR-087
+ST-4D,Mi9,,OFF,both,540.0,unchanged,unchanged,not_reported,not_reported,agree,A419,B-STR-087
+ST-4D,Mi9,,OFF,both,60.0,unchanged,unchanged,not_reported,not_reported,agree,A415,B-STR-087
+ST-4D,Mi9,,OFF,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A420,B-STR-087
+ST-4D,Mi9,,OFF,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A416,B-STR-087
+ST-4D,T4T5,,OFF,both,1080.0,abolished,abolished,not_reported,not_reported,agree,A429,B-STR-088
+ST-4D,T4T5,,OFF,both,180.0,abolished,abolished,not_reported,not_reported,agree,A425,B-STR-088
+ST-4D,T4T5,,OFF,both,270.0,abolished,abolished,not_reported,not_reported,agree,A426,B-STR-088
+ST-4D,T4T5,,OFF,both,30.0,abolished,abolished,not_reported,not_reported,agree,A422,B-STR-088
+ST-4D,T4T5,,OFF,both,540.0,abolished,abolished,not_reported,not_reported,agree,A427,B-STR-088
+ST-4D,T4T5,,OFF,both,60.0,abolished,abolished,not_reported,not_reported,agree,A423,B-STR-088
+ST-4D,T4T5,,OFF,both,810.0,abolished,abolished,not_reported,not_reported,agree,A428,B-STR-088
+ST-4D,T4T5,,OFF,both,90.0,abolished,abolished,not_reported,not_reported,agree,A424,B-STR-088
+ST-4D,Tm3,,OFF,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A405,B-STR-078
+ST-4D,Tm3,,OFF,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A401,B-STR-078
+ST-4D,Tm3,,OFF,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A402,B-STR-078
+ST-4D,Tm3,,OFF,both,30.0,unchanged,unchanged,not_reported,not_reported,agree,A398,B-STR-078
+ST-4D,Tm3,,OFF,both,540.0,unchanged,unchanged,not_reported,not_reported,agree,A403,B-STR-078
+ST-4D,Tm3,,OFF,both,60.0,unchanged,unchanged,not_reported,not_reported,agree,A399,B-STR-078
+ST-4D,Tm3,,OFF,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A404,B-STR-078
+ST-4D,Tm3,,OFF,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A400,B-STR-078
+ST-4E,Mi1,,ON,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A435,B-STR-094
+ST-4E,Mi1,,ON,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A431,B-STR-090
+ST-4E,Mi1,,ON,both,270.0,reduced,reduced,not_reported,not_reported,agree,A432,B-STR-091
+ST-4E,Mi1,,ON,both,540.0,reduced,reduced,not_reported,not_reported,agree,A433,B-STR-092
+ST-4E,Mi1,,ON,both,810.0,reduced,reduced,not_reported,not_reported,agree,A434,B-STR-093
+ST-4E,Mi1,,ON,both,90.0,reduced,reduced,not_reported,not_reported,agree,A430,B-STR-089
+ST-4E,Mi4,,ON,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A447,B-STR-101
+ST-4E,Mi4,,ON,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A443,B-STR-097
+ST-4E,Mi4,,ON,both,270.0,increased,increased,not_reported,not_reported,agree,A444,B-STR-098
+ST-4E,Mi4,,ON,both,540.0,increased,increased,not_reported,not_reported,agree,A445,B-STR-099
+ST-4E,Mi4,,ON,both,810.0,increased,increased,not_reported,not_reported,agree,A446,B-STR-100
+ST-4E,Mi4,,ON,both,90.0,increased,increased,not_reported,not_reported,agree,A442,B-STR-096
+ST-4E,Mi9,,ON,both,1080.0,unchanged,unchanged,not_reported,not_reported,agree,A453,B-STR-102
+ST-4E,Mi9,,ON,both,180.0,unchanged,unchanged,not_reported,not_reported,agree,A449,B-STR-102
+ST-4E,Mi9,,ON,both,270.0,unchanged,unchanged,not_reported,not_reported,agree,A450,B-STR-102
+ST-4E,Mi9,,ON,both,540.0,unchanged,unchanged,not_reported,not_reported,agree,A451,B-STR-102
+ST-4E,Mi9,,ON,both,810.0,unchanged,unchanged,not_reported,not_reported,agree,A452,B-STR-102
+ST-4E,Mi9,,ON,both,90.0,unchanged,unchanged,not_reported,not_reported,agree,A448,B-STR-102
+ST-4E,T4T5,,ON,both,1080.0,reduced,reduced,not_reported,not_reported,agree,A459,B-STR-103
+ST-4E,T4T5,,ON,both,180.0,reduced,reduced,not_reported,not_reported,agree,A455,B-STR-103
+ST-4E,T4T5,,ON,both,270.0,reduced,reduced,not_reported,not_reported,agree,A456,B-STR-103
+ST-4E,T4T5,,ON,both,540.0,reduced,reduced,not_reported,not_reported,agree,A457,B-STR-103
+ST-4E,T4T5,,ON,both,810.0,reduced,reduced,not_reported,not_reported,agree,A458,B-STR-103
+ST-4E,T4T5,,ON,both,90.0,reduced,reduced,not_reported,not_reported,agree,A454,B-STR-103
+ST-4E,Tm3,,ON,both,1080.0,reduced,reduced,not_reported,not_reported,agree,A441,B-STR-095
+ST-4E,Tm3,,ON,both,180.0,reduced,reduced,not_reported,not_reported,agree,A437,B-STR-095
+ST-4E,Tm3,,ON,both,270.0,reduced,reduced,not_reported,not_reported,agree,A438,B-STR-095
+ST-4E,Tm3,,ON,both,540.0,reduced,reduced,not_reported,not_reported,agree,A439,B-STR-095
+ST-4E,Tm3,,ON,both,810.0,reduced,reduced,not_reported,not_reported,agree,A440,B-STR-095
+ST-4E,Tm3,,ON,both,90.0,reduced,reduced,not_reported,not_reported,agree,A436,B-STR-095
+ST-DS,Mi4,,both,both,30,not_reported,not_reported,unchanged,unchanged,agree,A460,B-STR-104
+ST-DS,Mi9,,both,both,30,not_reported,not_reported,unchanged,unchanged,agree,A461,B-STR-105

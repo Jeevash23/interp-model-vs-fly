@@ -1,0 +1,28 @@
+{
+  "study": "AI-11 model versus fly silencing",
+  "ai06_root": "reference/flyvis-first-order",
+  "effects": {
+    "development": "study/results/analysis/development/effects.csv",
+    "confirmation": "study/results/analysis/confirmation/effects.csv"
+  },
+  "connectome": "01-Papers/sources/flyvis/flyvis/connectome/fib25-fib19_v2.2.json",
+  "development_models": ["000", "001", "004", "005"],
+  "model_speeds": {"final_slow": 27.55, "dev_fast": 110.2},
+  "speed_boundary_deg_s": 55.1,
+  "primary_strength": 1.0,
+  "partial_strength": 0.5,
+  "delta": 0.2,
+  "delta_candidates": [0.15, 0.25, 0.3],
+  "delta_sensitivity": [0.1, 0.3],
+  "abolished_cut": 0.1,
+  "min_baseline_dsi": 0.2,
+  "boundary_band": 0.05,
+  "boundary_crowding_limit": 0.25,
+  "pooling": "mean",
+  "pooling_switch_limit": 0.10,
+  "speed_proxy_limit": 0.25,
+  "connectivity_hops": 3,
+  "permutations": 100000,
+  "seed": 20261018,
+  "categories": ["abolished", "reduced", "unchanged", "increased"]
+}

@@ -1,0 +1,318 @@
+{
+  "status": "verified_released_metadata",
+  "cluster_cell": "T4c",
+  "cluster_file_sha256": "35a3b284e205913a2672a1efc0bdaec54aa784a5af38ab8c8e441e615031d412",
+  "ordering": "lexical model directory order as native Ensemble.model_paths_from_parent; mask maps50indices",
+  "development": [
+    "000",
+    "004"
+  ],
+  "held_out": [
+    "001",
+    "005"
+  ],
+  "rule": "tutorial000; lowest validation loss from different cluster; next-lowest unused per represented cluster; path tie-break",
+  "models": [
+    {
+      "model": "000",
+      "validation_loss": 5.136557016107771,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "d8a57a022aa18ca338599be713af9db29b89cde4b00098ffe42b78f0d583e46a"
+    },
+    {
+      "model": "001",
+      "validation_loss": 5.191043282548587,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "f351b025e25fc02e6ab9e2a80f6fd641fc62f5b3f33210e0a2318af5cc0614ae"
+    },
+    {
+      "model": "002",
+      "validation_loss": 5.220126933521694,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "34c70cdc875f9602053f31acf03443cc071982923a9407a367666086637ae866"
+    },
+    {
+      "model": "003",
+      "validation_loss": 5.247156386574109,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "b6764982671b5f0051e682360adc52f8ed6493e478fb9c0edbf66f1d256e1501"
+    },
+    {
+      "model": "004",
+      "validation_loss": 5.251272684997982,
+      "T4c_cluster": 2,
+      "checkpoint_sha256": "d3e5ffd015020dec45ccb87c92ceb8091a8f8e65a83a553a9dc3887dd1b6072d"
+    },
+    {
+      "model": "005",
+      "validation_loss": 5.259884989923901,
+      "T4c_cluster": 2,
+      "checkpoint_sha256": "237db8bd6b015aacd54a0719014ef5a146236a6b4e2ab769b81d314907753ffa"
+    },
+    {
+      "model": "006",
+      "validation_loss": 5.260432350966665,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "6fb45c35839d04f78073b5a8e67fabcf59131fbf340925459952a5ff1de3b4ea"
+    },
+    {
+      "model": "007",
+      "validation_loss": 5.262506523066097,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "cd1b53eef47db91d3529613a98d0879a739390dcfc53d6148a6953ff9fb13469"
+    },
+    {
+      "model": "008",
+      "validation_loss": 5.269997964302699,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "e54b1f0790f97ef791b7aeee056fb88a2bfc7ab4329dd9f7dca10300eb945897"
+    },
+    {
+      "model": "009",
+      "validation_loss": 5.270350093642871,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "37c2676a83587dd7642cbbd3a0d0be219cb999d587ac1830285bdc838f4891f6"
+    },
+    {
+      "model": "010",
+      "validation_loss": 5.271915788451831,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "ed8be3c396c7a549b2d8b85cd5b14527c43eec58b5ddaae054d18ab9a2b6a300"
+    },
+    {
+      "model": "011",
+      "validation_loss": 5.277487738264932,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "bad9dabe0e9432a1f305a4544a847a1fdf7da871021f6d69b1e52a3fa7fcda67"
+    },
+    {
+      "model": "012",
+      "validation_loss": 5.277920769320594,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "d0c816909660cae35811b1631b3ff8cbd40a3acc076b6b083f4c88abbfc19f60"
+    },
+    {
+      "model": "013",
+      "validation_loss": 5.281195715069771,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "bde19f62d1a9ce2fce20fce68b72cced1a082a5192c210f4a69c89708e1476d8"
+    },
+    {
+      "model": "014",
+      "validation_loss": 5.283142609728707,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "0bcac347539e36750a00adf71e7c1236a341c4b363cf6b84c0fb6fed349cf967"
+    },
+    {
+      "model": "015",
+      "validation_loss": 5.28523435195287,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "02d2cd384f7f8040582ab33bd52fa2c44edce50ca5be27897d0f105475d819cb"
+    },
+    {
+      "model": "016",
+      "validation_loss": 5.289695978164673,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "8fbfc7d39d48eca441e0e23a735dcbedb0a3e364b3a9de48cfa651d0e7c8e7bc"
+    },
+    {
+      "model": "017",
+      "validation_loss": 5.291881955332226,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "299ac9ab1a50e5dfc5f1716627a9b09f7c5abd8820436eda63f4a178c555e1e1"
+    },
+    {
+      "model": "018",
+      "validation_loss": 5.292151803771655,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "8c738269fdbecce5da3e4cc5d44718910be1adc61fc693959792eb1817960277"
+    },
+    {
+      "model": "019",
+      "validation_loss": 5.29551562666893,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "6fb18d56f4c014ccf7a53b6914df6fe93f8f594d28b056ebe056a919d70aa596"
+    },
+    {
+      "model": "020",
+      "validation_loss": 5.295636506544219,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "03061634c6c83a2b4560005d0e97f40103ef5767d0a831b5205256bc47919ef9"
+    },
+    {
+      "model": "021",
+      "validation_loss": 5.29688036441803,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "9285061e7e0af9b9e23e16a976f3ad158808a0a708c24590de1b85c23aea0727"
+    },
+    {
+      "model": "022",
+      "validation_loss": 5.298010347617997,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "dd864e23444915ad4bc4fab9d1c401567923c31388c174d3b3caf2b7874d4383"
+    },
+    {
+      "model": "023",
+      "validation_loss": 5.298870379726092,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "41a283e29e36ad7dbf2be0604138abd7887b87a1e7d168cf17d3f21103d5b88d"
+    },
+    {
+      "model": "024",
+      "validation_loss": 5.299407965607113,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "8400223db1a0702c2ec4eb863e47918fdcc5b998f6718c4f8b0f1a41264f386a"
+    },
+    {
+      "model": "025",
+      "validation_loss": 5.300875248180495,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "3c780db8bc7c1d5fa614e2475e4dc42b2ad15375b522f6e7ed8e153fe62847e4"
+    },
+    {
+      "model": "026",
+      "validation_loss": 5.303517358170615,
+      "T4c_cluster": 2,
+      "checkpoint_sha256": "6981fb1933705bfcb13b072f4c26520e3c3af5cb7e87652efbb6877ddf68b3e9"
+    },
+    {
+      "model": "027",
+      "validation_loss": 5.306977753837903,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "5f3723c0011f6d561ecb3861b2a2b8e13ea923011fd23a10f7c33ff0cbb6b6e7"
+    },
+    {
+      "model": "028",
+      "validation_loss": 5.308157533407211,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "b19c5c1e94760ec1479bea2adba122441c2c4c95e2ca174526a922d964395b64"
+    },
+    {
+      "model": "029",
+      "validation_loss": 5.318766688307126,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "2454e817485656d040fcee69eddc30e6ff7cd587ecd6a908ef3564e03ec95835"
+    },
+    {
+      "model": "030",
+      "validation_loss": 5.3195354839166,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "2b7a878d5f4328e2a26291522d2807e5b5a47410da16c15fa0fd55c195d464f7"
+    },
+    {
+      "model": "031",
+      "validation_loss": 5.3196239637004,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "1b6a145b53375ba5eea53c30aacd1ad916f756458acdce1c11dfbf733bb6c49a"
+    },
+    {
+      "model": "032",
+      "validation_loss": 5.3243887854946985,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "e8b23729a4951ab3584d8d6fb7bf9b54e4a675ab05fa4afb3d49d9dde07ea858"
+    },
+    {
+      "model": "033",
+      "validation_loss": 5.328959698478381,
+      "T4c_cluster": 2,
+      "checkpoint_sha256": "4dead734972b429850aca796eb23874e16d449036c892a99cbae0b02856b1ef6"
+    },
+    {
+      "model": "034",
+      "validation_loss": 5.330954548385408,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "7145f3e4504557d0439ab95c79a1b300fcdef9b8889c65022bd5318db7097980"
+    },
+    {
+      "model": "035",
+      "validation_loss": 5.33160486486223,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "2c59918d9bd267330d9a8c2a9f42da1dc5335901a6c1c62fdcfdc10faa3ff737"
+    },
+    {
+      "model": "036",
+      "validation_loss": 5.332136740287145,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "052b7e31cebc6b60f73e37e166911dc6889795abbaa5f38717d5374ab1d0cc6d"
+    },
+    {
+      "model": "037",
+      "validation_loss": 5.332739220725165,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "93f25c9d4dc6a6f93d7a8d19fc372a9eeedc5455b388779de8152763337baeee"
+    },
+    {
+      "model": "038",
+      "validation_loss": 5.335818338725302,
+      "T4c_cluster": 2,
+      "checkpoint_sha256": "a336ca91868486678c4dfbf871ef8f1c009c12974df20289b8697a79f1db86e0"
+    },
+    {
+      "model": "039",
+      "validation_loss": 5.355444838603337,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "a280006d540ceb2d1e6e0cd25e912500235ea79e3c258cf3f93ea518459083d7"
+    },
+    {
+      "model": "040",
+      "validation_loss": 5.359657613767518,
+      "T4c_cluster": 2,
+      "checkpoint_sha256": "67a85cdcfb55d9e59fbe750a365c044d333d782ab89c0d44d75ffe9a736fac84"
+    },
+    {
+      "model": "041",
+      "validation_loss": 5.359666627314356,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "76759a8d7d714bf7886000e41eca56b8c02aecd2df7feb630f4aa98f645f6f32"
+    },
+    {
+      "model": "042",
+      "validation_loss": 5.366370586885346,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "d57aa0a374be4f63a2e8d955a73b15fbcc72b799fcb7906ff5cd6366b42a0f6d"
+    },
+    {
+      "model": "043",
+      "validation_loss": 5.3715731253226595,
+      "T4c_cluster": 2,
+      "checkpoint_sha256": "9536964c530de66dd3356e04c47d4057a2764e25a40faf04a45c8e8083612d76"
+    },
+    {
+      "model": "044",
+      "validation_loss": 5.378605905506346,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "efc1850265ed305bdc2b6c645fe8a74faa2b2ea2a238d097148ca490b83fcd80"
+    },
+    {
+      "model": "045",
+      "validation_loss": 5.383891855676969,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "19323db328787e33b91ac0473046f0e361ef4dadf0394e3f389b5359b9fdedce"
+    },
+    {
+      "model": "046",
+      "validation_loss": 5.417977909247081,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "604b2cf4dddbd7fbaefad7b350903ace541acb1c412242705dccf246cd904750"
+    },
+    {
+      "model": "047",
+      "validation_loss": 5.418262915478812,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "f5f98dbc53a94606a07e21079268b57a26950be66fe2f879fb06647a35d870fb"
+    },
+    {
+      "model": "048",
+      "validation_loss": 5.427841342157787,
+      "T4c_cluster": 1,
+      "checkpoint_sha256": "781eae13aaef429af6b98f0e4a436974a41f399ed532aabfc2d7973d28545bfe"
+    },
+    {
+      "model": "049",
+      "validation_loss": 5.677851685219341,
+      "T4c_cluster": 0,
+      "checkpoint_sha256": "b0dd6e351eed6b3ac18941fb02760c97426fe71aba1c194b0bd24a09d8d5960f"
+    }
+  ],
+  "serialized_estimators_not_executed": true
+}

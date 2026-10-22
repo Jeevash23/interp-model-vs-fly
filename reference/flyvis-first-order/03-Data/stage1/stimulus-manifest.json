@@ -1,0 +1,74 @@
+[
+  {
+    "key": "dev_slow",
+    "native_speed": 9.5,
+    "degrees_per_second": 55.1,
+    "trajectories": 24,
+    "frames": 571,
+    "stimulus_onset_frame": 200,
+    "motion_window_end_s": 0.8575317604355717,
+    "path": "03-Data/stage1/stimulus-dev_slow.npz",
+    "sha256": "14be0764094120f864b8b1ff87a2c6574c525edee84cf1ffdc8b318a3d27e230",
+    "render_or_load_s": 0.2395896640009596
+  },
+  {
+    "key": "dev_fast",
+    "native_speed": 19.0,
+    "degrees_per_second": 110.2,
+    "trajectories": 24,
+    "frames": 485,
+    "stimulus_onset_frame": 200,
+    "motion_window_end_s": 0.42876588021778583,
+    "path": "03-Data/stage1/stimulus-dev_fast.npz",
+    "sha256": "2a51412af55450d62836444dd8f1fee69508023244a4b730888846ae84ba1e7e",
+    "render_or_load_s": 0.1850294899995788
+  },
+  {
+    "key": "final_slow",
+    "native_speed": 4.75,
+    "degrees_per_second": 27.55,
+    "trajectories": 24,
+    "frames": 743,
+    "stimulus_onset_frame": 200,
+    "motion_window_end_s": 1.7150635208711433,
+    "path": "03-Data/stage1/stimulus-final_slow.npz",
+    "sha256": "bb1ae5aed5122f0f1c03e8d4bbf5b8b47dec3f0f56377628ccecc39fb1e9b853",
+    "render_or_load_s": 0.29074710599525133
+  },
+  {
+    "key": "final_fast",
+    "native_speed": 38.0,
+    "degrees_per_second": 220.4,
+    "trajectories": 24,
+    "frames": 442,
+    "stimulus_onset_frame": 200,
+    "motion_window_end_s": 0.21438294010889292,
+    "path": "03-Data/stage1/stimulus-final_fast.npz",
+    "sha256": "d2c929b1f82b6aabbbdc401975de82d500a0d5e0c90d187ac12fe9fc8626d446",
+    "render_or_load_s": 0.1561562019996927
+  },
+  {
+    "key": "bio_slow",
+    "native_speed": 2.1551724137931036,
+    "degrees_per_second": 12.5,
+    "trajectories": 24,
+    "frames": 1155,
+    "stimulus_onset_frame": 200,
+    "motion_window_end_s": 3.78,
+    "path": "03-Data/stage1/stimulus-bio_slow.npz",
+    "sha256": "1691f1deb8cb65fc4c4de01df9069feeb7c7a08d69e7890439ec5bab5b6f9bd7",
+    "render_or_load_s": 0.46280157000001054
+  },
+  {
+    "key": "bio_fast",
+    "native_speed": 51.724137931034484,
+    "degrees_per_second": 300.0,
+    "trajectories": 24,
+    "frames": 431,
+    "stimulus_onset_frame": 200,
+    "motion_window_end_s": 0.1575,
+    "path": "03-Data/stage1/stimulus-bio_fast.npz",
+    "sha256": "e2a7cfbf9ac59f44d5c42b988a8985be4ecb954cb3d63a8732e2279dfb9e66aa",
+    "render_or_load_s": 0.14978574799897615
+  }
+]

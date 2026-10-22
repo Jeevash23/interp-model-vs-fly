@@ -1,0 +1,26 @@
+{
+ "note": "Settlements of the findings on which the two extractions differ (AMENDMENTS.md, Amendment 1). Keys are experiment|genotype|polarity|direction|bin. Each was decided against the source text by the scoring session on 18 October 2026, before any confirmation-model summary. Passages are paraphrased.",
+ "settle": {
+  "AM-1GH|Mi1|OFF|both|slow": {"amplitude": "reduced", "reason": "Contrast series, Fig. 1G (Ammer PDF p. 46; text p. 47). One significance mark, at a low contrast; the text calls it a minor reduction of OFF responses in the low-contrast range. A coded the series as reduced; B split it into the low-contrast point (reduced) and the other contrasts (unchanged). Coded reduced, low contrast only. Excluded from scoring as a contrast series (Amendment 1.4), so this has no effect on the scores."},
+  "AM-2|Mi1|OFF|PD|slow": {"ds": "not_reported", "reason": "The text's statement on the directional tuning of OFF responses (Figs. 2-3; Ammer PDF p. 48) is one claim per genotype covering both directions and all speeds. A attached it to every OFF PD and ND row; B did not code it. It is recorded once per genotype as a separate direction-selectivity finding (added rows AM-23DS)."},
+  "AM-2|Mi1|OFF|PD|fast": {"ds": "not_reported", "reason": "As AM-2|Mi1|OFF|PD|slow."},
+  "AM-2|Tm3|OFF|PD|slow": {"ds": "not_reported", "reason": "As AM-2|Mi1|OFF|PD|slow."},
+  "AM-2|Tm3|OFF|PD|fast": {"ds": "not_reported", "reason": "As AM-2|Mi1|OFF|PD|slow."},
+  "AM-3|Mi1|OFF|ND|slow": {"ds": "not_reported", "reason": "As AM-2|Mi1|OFF|PD|slow."},
+  "AM-3|Mi1|OFF|ND|fast": {"ds": "not_reported", "reason": "As AM-2|Mi1|OFF|PD|slow."},
+  "AM-3|Tm3|OFF|ND|slow": {"ds": "not_reported", "reason": "As AM-2|Mi1|OFF|PD|slow."},
+  "AM-3|Tm3|OFF|ND|fast": {"ds": "not_reported", "reason": "As AM-2|Mi1|OFF|PD|slow."},
+  "SE-S4|Tm1+Tm4|OFF|PD|both": {"amplitude": "unchanged", "reason": "Pair, excluded from scoring. Fig. S4 shows PD and ND curves with no test. The PD-minus-ND test for this genotype (Fig. 6D) has no significance mark, unlike the other five pairs, while the text speaks of an intermediate reduction (Serbe PDF p. 32). Categories follow the authors' tests where a test exists (extraction rules), so the S4 rows follow Fig. 6D, as A coded; B followed the text."},
+  "SE-S4|Tm1+Tm4|OFF|ND|both": {"amplitude": "unchanged", "reason": "As SE-S4|Tm1+Tm4|OFF|PD|both."},
+  "SE-7C|Tm1|OFF|both|both": {"include": true, "reason": "Opposing-edge behaviour (one shibire copy), Fig. 7C. The text says turning of Tm1, Tm4 and Tm9 block flies differed from control in a roughly constant way across velocities, following the bright edges at low velocities (Serbe PDF p. 34): an OFF deficit, no test. A recorded it; B recorded only Tm2 from this panel."},
+  "SE-7C|Tm4|OFF|both|both": {"include": true, "reason": "As SE-7C|Tm1|OFF|both|both."},
+  "SE-7C|Tm9|OFF|both|both": {"include": true, "reason": "As SE-7C|Tm1|OFF|both|both."},
+  "ST-4B|Mi1|both|both|fast": {"amplitude": "unchanged", "reason": "Both extractors found significant reductions at 90 and 270 deg/s and none at 180 and 810 deg/s, a tie within the fast bin. The text says single blocks of the T4 inputs had very little effect on turning to grating motion (Strother PDF p. 8), which decides the tie (Amendment 1.2). Behaviour, secondary."},
+  "ST-4B|Tm3|both|both|fast": {"amplitude": "unchanged", "reason": "As ST-4B|Mi1|both|both|fast."}
+ },
+ "s5_rule": {"reason": "Gratings, Fig. S5 (Serbe PDF p. 44; text p. 32). The authors' statement that grating responses were only mildly reduced, in a pattern like that for OFF edges, is collective and not direction-specific, and the figure carries no test. A recorded one row per genotype with direction both; B recorded PD and ND rows. To count one statement once, the merged table keeps one finding per genotype with direction both (A's rows); B's PD and ND findings are not added. Categories agree (reduced) for every genotype."},
+ "add": [
+  {"key": "AM-23DS|Mi1|OFF|both|both", "amplitude": "not_reported", "ds": "unchanged", "speeds": "all", "rows_A": "A025-A036; A097-A108", "rows_B": "", "reason": "Directional tuning of OFF responses unaffected by the Mi1 block (text, Ammer PDF p. 48, citing Figs. 2-3); no test. A coded it on each OFF row; B did not code it; the statement supports it."},
+  {"key": "AM-23DS|Tm3|OFF|both|both", "amplitude": "not_reported", "ds": "unchanged", "speeds": "all", "rows_A": "A061-A084; A133-A156", "rows_B": "", "reason": "As AM-23DS|Mi1, for both Tm3 lines."}
+ ]
+}
