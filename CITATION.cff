@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or these results, please cite the preprint (link to be added when it is posted) and this repository."
-title: "Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9 but not for the OFF-pathway inputs: code and results"
+title: "Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement: code and results"
 abstract: "Compares exact silencing of the inputs of the motion detectors T4 and T5 in the 50 released FlyVis models with the published results of genetic silencing in flies, under a protocol frozen before the comparison."
 authors:
   - family-names: Jeevash

@@ -1,6 +1,8 @@
-# Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9 but not for the OFF-pathway inputs
+# Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement
 
-Code and results for the preprint *Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9 but not for the OFF-pathway inputs*, by Richard Jeevash (link to be added when it is posted).
+Code and results for the preprint *Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement*, by Richard Jeevash (link to be added when it is posted).
+
+The current version of the paper (sixth version, November 2026) adds a later, post hoc study of how the OFF-pathway response is measured (its Section 5). That study has its own protocol, code and saved outputs, which are not in this repository; they are available from the author. Everything else in the paper is reproduced from the files here.
 
 This repository holds the code, frozen inputs, study records and saved outputs behind it; the saved outputs and the
 frozen protocols are attached to its v1.0 release (see [Release files](#release-files)). Every number and generated
@@ -238,7 +240,7 @@ repository; [CITATION.cff](CITATION.cff) has the details.
 ```bibtex
 @software{interp_model_vs_fly_2026,
   author  = {Jeevash, Richard},
-  title   = {{Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9 but not for the OFF-pathway inputs: code and results}},
+  title   = {{Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement: code and results}},
   year    = {2026},
   version = {1.0.0},
   url     = {https://github.com/Jeevash23/interp-model-vs-fly}
