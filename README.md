@@ -2,7 +2,7 @@
 
 Code and results for the preprint *Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement*, by Richard Jeevash (link to be added when it is posted).
 
-The current version of the paper (sixth version, November 2026) adds a later, post hoc study of how the OFF-pathway response is measured (its Section 5). That study has its own protocol, code and saved outputs, which are not in this repository; they are available from the author. Everything else in the paper is reproduced from the files here.
+The current version of the paper (seventh version, November 2026) adds a later, post hoc study of how the OFF-pathway response is measured (its Section 5). That study has its own protocol, code and saved outputs, released separately in [interp-t5-paths](https://github.com/Jeevash23/interp-t5-paths) (archived at [doi:10.5281/zenodo.24384493](https://doi.org/10.5281/zenodo.24384493)). Everything else in the paper is reproduced from the files here.
 
 This repository holds the code, frozen inputs, study records and saved outputs behind it; the saved outputs and the
 frozen protocols are attached to its v1.0 release (see [Release files](#release-files)). Every number and generated
