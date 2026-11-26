@@ -1,6 +1,6 @@
 # Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement
 
-Code and results for the preprint *Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement*, by Richard Jeevash (link to be added when it is posted).
+Code and results for the study *Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement*, by Richard Jeevash. The study is Chapter 9 of the thesis [*What activation patching shows*](https://doi.org/10.5281/zenodo.24555440), which is the version to read and cite.
 
 The current version of the paper (seventh version, November 2026) adds a later, post hoc study of how the OFF-pathway response is measured (its Section 5). That study has its own protocol, code and saved outputs, released separately in [interp-t5-paths](https://github.com/Jeevash23/interp-t5-paths) (archived at [doi:10.5281/zenodo.24384493](https://doi.org/10.5281/zenodo.24384493)). Everything else in the paper is reproduced from the files here.
 
@@ -234,7 +234,7 @@ In the working records shipped here, the names of software tools were replaced b
 
 ## Citation
 
-Please cite the preprint (the link will be added here when it is posted) and, for the code and results, this
+Please cite the thesis *What activation patching shows* (Chapter 9, [doi:10.5281/zenodo.24555440](https://doi.org/10.5281/zenodo.24555440)) and, for the code and results, this
 repository; [CITATION.cff](CITATION.cff) has the details.
 
 ```bibtex
@@ -242,7 +242,7 @@ repository; [CITATION.cff](CITATION.cff) has the details.
   author  = {Jeevash, Richard},
   title   = {{Silencing in the FlyVis models matches fly experiments for Mi1 and Mi9, and the OFF-pathway mismatch depends largely on the measurement: code and results}},
   year    = {2026},
-  version = {1.0.0},
+  version = {1.1.0},
   url     = {https://github.com/Jeevash23/interp-model-vs-fly}
 }
 ```
